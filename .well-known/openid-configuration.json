@@ -1,4 +1,4 @@
 {
-  "issuer": "https://github.com/",
-  "jwks_uri": "https://openid-211614003246.s3-accesspoint.eu-west-1.amazonaws.com/.well-known/jwks.json"
+  "issuer": "https://raw.githubusercontent.com/",
+  "jwks_uri": "https://raw.githubusercontent.com/alankaryerkal/openid/main/.well-known/jwks.json"
 }
